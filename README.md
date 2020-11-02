@@ -1,5 +1,5 @@
-Front End
-Installation
+# Front End
+### Installation
 - Angular CLI: 8.2.0
 - Node: 12.0.0
 
